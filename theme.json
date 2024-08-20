@@ -1,0 +1,20 @@
+{
+    "coordinates": {
+        "lat": 51.4769,
+        "long": -0.0005,
+    },
+
+    "toLight": "sunrise",
+    "toDark": "sunset",
+
+    "light": {
+        "plasmaStyle": "Lavanda-Sea-Light",
+        "colourScheme": "AbsoluteLight",
+        "applicationStyle": "kvantum"
+    },
+    "dark": {
+        "plasmaStyle": "Lavanda-Sea-Dark",
+        "colourScheme": "AbsoluteDark",
+        "applicationStyle": "kvantum-dark"
+    }
+}

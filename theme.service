@@ -1,0 +1,10 @@
+[Unit]
+Description = "Run theme switcher"
+After = plasma-workspace.target
+
+[Service]
+type = oneshot
+ExecStart = /home/jcake/Apps/scripts/theme.nu
+
+[Install]
+WantedBy = plasma-workspace.target
